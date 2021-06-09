@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "5269a9331a054a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "66106a7d421bf956",
+        "type": "leaf",
+        "dimension": 47.361477572559366,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "add.md",
+            "mode": "source"
+          }
+        },
+        "group": "bdaaa2f699088bc4"
+      },
+      {
+        "id": "bbf201f71626856e",
+        "type": "leaf",
+        "dimension": 52.638522427440634,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "add.md",
+            "mode": "source"
+          }
+        },
+        "group": "bdaaa2f699088bc4"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9df4d768d0bcf976",
+    "type": "split",
+    "children": [
+      {
+        "id": "7010259f977bbd66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd8b5bf2b08e169",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e851de744add52f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4a947551263cee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d7f7c133576c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7de20c9bfa539b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "add.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66106a7d421bf956",
+  "lastOpenFiles": [
+    "add.md",
+    "~.md",
+    "obsidian-starter-templates/technology_radar/content/Graph Database.md",
+    "obsidian-starter-templates/technology_radar/content/Bento ML.md",
+    "obsidian-starter-templates/researcher/scratch/2020-05-26.md",
+    "obsidian-starter-templates/researcher/scratch/2020-05-25.md",
+    "obsidian-starter-templates/researcher/scratch/2020-05-24.md",
+    "obsidian-starter-templates/researcher/tools/The first tool.md",
+    "obsidian-starter-templates/researcher/projects/Project C/Project C.md",
+    "obsidian-starter-templates/researcher/projects/Project C/Main concept.md"
+  ]
+}

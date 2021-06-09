@@ -1,0 +1,1 @@
+Wow, that was easy to [[add]], even more [[Cool]] than [[Test]] !
