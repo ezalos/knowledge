@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66106a7d421bf956",
+        "id": "718e809613369934",
         "type": "leaf",
-        "dimension": 47.361477572559366,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "add.md",
-            "mode": "source"
-          }
-        },
-        "group": "bdaaa2f699088bc4"
-      },
-      {
-        "id": "bbf201f71626856e",
-        "type": "leaf",
-        "dimension": 52.638522427440634,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "add.md",
-            "mode": "source"
-          }
-        },
-        "group": "bdaaa2f699088bc4"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66106a7d421bf956",
+  "active": "718e809613369934",
   "lastOpenFiles": [
+    "Machine Learning/Maths/Matrix/eigenvalue.md",
+    "Machine Learning/PCA.md",
+    "Basic.md",
+    "BlendBot.png.md",
+    "Cool.md",
+    "Internal links.md",
+    "Test.md",
+    "Machine Learning/Maths/Matrix/eigenvector.md",
     "add.md",
-    "~.md",
-    "obsidian-starter-templates/technology_radar/content/Graph Database.md",
-    "obsidian-starter-templates/technology_radar/content/Bento ML.md",
-    "obsidian-starter-templates/researcher/scratch/2020-05-26.md",
-    "obsidian-starter-templates/researcher/scratch/2020-05-25.md",
-    "obsidian-starter-templates/researcher/scratch/2020-05-24.md",
-    "obsidian-starter-templates/researcher/tools/The first tool.md",
-    "obsidian-starter-templates/researcher/projects/Project C/Project C.md",
-    "obsidian-starter-templates/researcher/projects/Project C/Main concept.md"
+    "Assets/BlendBot.png"
   ]
 }
