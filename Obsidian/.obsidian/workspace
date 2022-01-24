@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9df4d768d0bcf976",
+    "id": "15a8a65ee7f81d3d",
     "type": "split",
     "children": [
       {
-        "id": "7010259f977bbd66",
+        "id": "974a9d8e132264f5",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd8b5bf2b08e169",
+            "id": "3ff54658cf31ac63",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "e851de744add52f3",
+            "id": "c034b7c24c35d2b8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "a4a947551263cee9",
+    "id": "0fe496d9d6752cf6",
     "type": "split",
     "children": [
       {
-        "id": "80d7f7c133576c4a",
+        "id": "ab0b088f31597ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "b7de20c9bfa539b0",
+            "id": "70e6df5c4cb09853",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -83,16 +83,5 @@
     "collapsed": true
   },
   "active": "718e809613369934",
-  "lastOpenFiles": [
-    "Machine Learning/Maths/Matrix/eigenvalue.md",
-    "Machine Learning/PCA.md",
-    "Basic.md",
-    "BlendBot.png.md",
-    "Cool.md",
-    "Internal links.md",
-    "Test.md",
-    "Machine Learning/Maths/Matrix/eigenvector.md",
-    "add.md",
-    "Assets/BlendBot.png"
-  ]
+  "lastOpenFiles": []
 }
