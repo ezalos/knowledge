@@ -23,7 +23,6 @@ example:
 
 	consequence: derriere cette idée
 s 'aligne one suite didées dessus, et meme parfois redefinition, on fait un fork créant one hierarchie d 'embranchment
-			l
 
 Consomation de l' info:
 

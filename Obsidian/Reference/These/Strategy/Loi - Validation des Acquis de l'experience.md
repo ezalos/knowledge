@@ -1,0 +1,11 @@
+[Code de l'éducation : Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000006182456/#LEGISCTA000006182456)
+
+[Article L613-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024297)
+
+==Toute personne justifiant d'une activité professionnelle salariée==, non salariée, bénévole ou de volontariat, inscrite sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article [L. 221-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071318&idArticle=LEGIARTI000006547582&dateTexte=&categorieLien=cid) du code du sport ou ayant exercé des responsabilités syndicales, un mandat électoral local ou une fonction élective locale en rapport direct avec le contenu du diplôme ou du titre visé ==peut demander la validation des acquis de son expérience== prévue à l'article [L. 6411-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904468&dateTexte=&categorieLien=cid) du code du travail ==pour justifier de tout ou partie des connaissances et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un établissement d'enseignement supérieur.==
+
+La ==durée minimale d'activité== requise pour que la demande de validation soit recevable ==est de d'un an==, que l'activité ait été exercée de façon continue ou non. Pour apprécier cette durée, l'autorité ou l'organisme qui se prononce sur la recevabilité de la demande mentionnée à l'article [L. 6412-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037385619) du même code ==peut prendre en compte== des activités mentionnées au premier alinéa du présent article, de nature différente, exercées sur une même période, ainsi que les ==périodes de formation== initiale ou continue ==en milieu professionnel== suivie de façon continue ou non.
+
+Lorsqu'une demande de validation des acquis de l'expérience émane d'un membre bénévole d'une association, le conseil d'administration de l'association ou, à défaut, l'assemblée générale peut émettre un avis pour éclairer le jury sur l'engagement du membre bénévole.
+
+Toute personne peut également ==demander la validation des études supérieures== qu'elle a accomplies, notamment à l'étranger.
